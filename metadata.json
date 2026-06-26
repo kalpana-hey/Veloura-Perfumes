@@ -1,0 +1,6 @@
+{
+  "name": "Veloura Perfumes",
+  "description": "An elegant, interactive luxury perfume portfolio and retail experience capturing the timeless scents of Veloura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /order-confirmation
+
+# Host
+Host: https://velouraperfumes.com
+
+# Sitemaps
+Sitemap: https://velouraperfumes.com/sitemap.xml
