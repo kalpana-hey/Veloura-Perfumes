@@ -4,7 +4,7 @@ Allow: /
 Disallow: /order-confirmation
 
 # Host
-Host: https://dummy-rust-sigma.vercel.app
+Host: https://veloura-perfumes-five.vercel.app/
 
 # Sitemaps
-Sitemap: https://dummy-rust-sigma.vercel.app/sitemap.xml
+Sitemap: https://veloura-perfumes-five.vercel.app/sitemap.xml
